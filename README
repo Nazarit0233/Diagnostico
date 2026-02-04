@@ -6,6 +6,6 @@ asignación de turnos en la sede de un banco.
 - Preferencial > para usuarios que son clientes del banco.
 
 Para esta primera parte de la prueba tenemos 2 posibles soluciones:
-![Soluciones][https://github.com/Nazarit0233/Diagnostico/blob/main/Recursos/Imagenes/Diagnostico.drawio.png?raw=true]
+![Soluciones](https://github.com/Nazarit0233/Diagnostico/blob/main/Recursos/Imagenes/Diagnostico.drawio.png?raw=true)
 - Solución I que cumple con los requerimientos pero no con la escalabilidad y otras buenas practicas.
 - Solución II que cumple con los requerimientos y con las buena practicas como la escalabilidad.
